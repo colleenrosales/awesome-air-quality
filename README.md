@@ -53,3 +53,6 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
 
 * Rust
     * [Rust library with common functionality for I2C sensors](https://github.com/Sensirion/sensirion-i2c-rs)
+
+* Raspberry Pi
+    * [LEGO® data dashboard - Create a dashboard that will visualise air pollution data](https://projects.raspberrypi.org/en/projects/lego-data-dash/0)
